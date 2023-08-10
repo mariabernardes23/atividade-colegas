@@ -1,0 +1,3 @@
+# Atividade em colegas
+
+Trabalho em Grupo sobre Git: Neste projeto colaborativo, nossa equipe irá explorar e dominar o sistema de controle de versões Git. Vamos mergulhar na criação, compartilhamento e fusão de código de maneira eficiente, usando as melhores práticas de colaboração. Ao longo do trabalho, aprenderemos a criar repositórios, gerenciar branches, resolver conflitos e utilizar plataformas de hospedagem como GitHub para maximizar a colaboração e o rastreamento de alterações. Juntos, construiremos uma compreensão sólida do Git, capacitando-nos a trabalhar de forma mais eficaz e harmoniosa em projetos futuros.
